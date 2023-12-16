@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Generatorka:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Generatorka_jar</output-path>
+    <root id="archive" name="Generatorka.jar">
+      <element id="module-output" name="Generatorka" />
+    </root>
+  </artifact>
+</component>
